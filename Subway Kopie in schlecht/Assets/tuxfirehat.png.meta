@@ -1,0 +1,1704 @@
+fileFormatVersion: 2
+guid: 1efa5504a2628944db9d6bb133903e05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2919336341326709389
+    second: tuxfirehat_0
+  - first:
+      213: 5315407903555839952
+    second: tuxfirehat_1
+  - first:
+      213: -6451786126887244538
+    second: tuxfirehat_2
+  - first:
+      213: 3497591131228211024
+    second: tuxfirehat_3
+  - first:
+      213: -5882986427160437395
+    second: tuxfirehat_4
+  - first:
+      213: 342551457407709207
+    second: tuxfirehat_5
+  - first:
+      213: 6116648530734161707
+    second: tuxfirehat_6
+  - first:
+      213: 3312789778755387060
+    second: tuxfirehat_7
+  - first:
+      213: 3365201192032841929
+    second: tuxfirehat_8
+  - first:
+      213: -8594401998969933184
+    second: tuxfirehat_9
+  - first:
+      213: -2227529363060082489
+    second: tuxfirehat_10
+  - first:
+      213: 6178228968793901696
+    second: tuxfirehat_11
+  - first:
+      213: 692542753626288585
+    second: tuxfirehat_12
+  - first:
+      213: -3424141428013687359
+    second: tuxfirehat_13
+  - first:
+      213: -7162014885671011139
+    second: tuxfirehat_14
+  - first:
+      213: 2542828206076197715
+    second: tuxfirehat_15
+  - first:
+      213: -6058478220970918580
+    second: tuxfirehat_16
+  - first:
+      213: -1390465415801923224
+    second: tuxfirehat_17
+  - first:
+      213: -2676961068434346536
+    second: tuxfirehat_18
+  - first:
+      213: 5876340527209784569
+    second: tuxfirehat_19
+  - first:
+      213: 3982320021937415484
+    second: tuxfirehat_20
+  - first:
+      213: -1769953767059473080
+    second: tuxfirehat_21
+  - first:
+      213: -7174904069623244487
+    second: tuxfirehat_22
+  - first:
+      213: 585488652033832871
+    second: tuxfirehat_23
+  - first:
+      213: -8746533179180819380
+    second: tuxfirehat_24
+  - first:
+      213: 8397711109854302605
+    second: tuxfirehat_25
+  - first:
+      213: 1230086695439370407
+    second: tuxfirehat_26
+  - first:
+      213: -820357542078462168
+    second: tuxfirehat_27
+  - first:
+      213: -9057841182799315693
+    second: tuxfirehat_28
+  - first:
+      213: -6949870198304636855
+    second: tuxfirehat_29
+  - first:
+      213: -111819749802117793
+    second: tuxfirehat_30
+  - first:
+      213: 7920575061939932908
+    second: tuxfirehat_31
+  - first:
+      213: -4533496819337917673
+    second: tuxfirehat_32
+  - first:
+      213: -5403973139609714836
+    second: tuxfirehat_33
+  - first:
+      213: -7743514583424182808
+    second: tuxfirehat_34
+  - first:
+      213: -492749410069533694
+    second: tuxfirehat_35
+  - first:
+      213: -5048083635616372352
+    second: tuxfirehat_36
+  - first:
+      213: 3884438156219851950
+    second: tuxfirehat_37
+  - first:
+      213: -5212679237026037236
+    second: tuxfirehat_38
+  - first:
+      213: -4426878305344524161
+    second: tuxfirehat_39
+  - first:
+      213: -5108957942492013685
+    second: tuxfirehat_40
+  - first:
+      213: -3015517280429615215
+    second: tuxfirehat_41
+  - first:
+      213: -4551157766303087466
+    second: tuxfirehat_42
+  - first:
+      213: 1957473002141483038
+    second: tuxfirehat_43
+  - first:
+      213: -7491605279516054948
+    second: tuxfirehat_44
+  - first:
+      213: -2713340652658100588
+    second: tuxfirehat_45
+  - first:
+      213: -8794973061141767884
+    second: tuxfirehat_46
+  - first:
+      213: 6452604459799263155
+    second: tuxfirehat_47
+  - first:
+      213: 8372146838829714222
+    second: tuxfirehat_48
+  - first:
+      213: -6571951985282312591
+    second: tuxfirehat_49
+  - first:
+      213: -3232286949664830586
+    second: tuxfirehat_50
+  - first:
+      213: -3904365373234175440
+    second: tuxfirehat_51
+  - first:
+      213: -1636543065603230258
+    second: tuxfirehat_52
+  - first:
+      213: 3701500821745160066
+    second: tuxfirehat_53
+  - first:
+      213: 6327812941411322736
+    second: tuxfirehat_54
+  - first:
+      213: -6228326147876344637
+    second: tuxfirehat_55
+  - first:
+      213: 1122976710382909469
+    second: tuxfirehat_56
+  - first:
+      213: 7426349612033277779
+    second: tuxfirehat_57
+  - first:
+      213: -440917171489117039
+    second: tuxfirehat_58
+  - first:
+      213: -1457142820094673441
+    second: tuxfirehat_59
+  - first:
+      213: 2348539954278944910
+    second: tuxfirehat_60
+  - first:
+      213: 7958729427863035414
+    second: tuxfirehat_61
+  - first:
+      213: 5754362157001799400
+    second: tuxfirehat_62
+  - first:
+      213: 1347758530432894078
+    second: tuxfirehat_63
+  - first:
+      213: 1833413341381396348
+    second: tuxfirehat_64
+  - first:
+      213: -6176310918918919225
+    second: tuxfirehat_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tuxfirehat_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82caa46fe0938820800000000000000
+      internalID: 2919336341326709389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7efb7735f14c940800000000000000
+      internalID: 5315407903555839952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60da71c53b6a676a0800000000000000
+      internalID: -6451786126887244538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570a625a90f98030800000000000000
+      internalID: 3497591131228211024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 224
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d58ae830f6b5ea0800000000000000
+      internalID: -5882986427160437395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71034105cbcf0c400800000000000000
+      internalID: 342551457407709207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f135a6e63b2e450800000000000000
+      internalID: 6116648530734161707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be724a70c469fd20800000000000000
+      internalID: 3312789778755387060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 224
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b6d097a893be20800000000000000
+      internalID: 3365201192032841929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 224
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827d72caec8ab880800000000000000
+      internalID: -8594401998969933184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c83d04a8d93611e0800000000000000
+      internalID: -2227529363060082489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0df1738a7db550800000000000000
+      internalID: 6178228968793901696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17aa517f76c9900800000000000000
+      internalID: 692542753626288585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9b8a53810b70d0800000000000000
+      internalID: -3424141428013687359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf48f48696b9c90800000000000000
+      internalID: -7162014885671011139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf30ce7c0f94320800000000000000
+      internalID: 2542828206076197715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d769f3826fbeba0800000000000000
+      internalID: -6058478220970918580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86919a2421314bce0800000000000000
+      internalID: -1390465415801923224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddab66671689dad0800000000000000
+      internalID: -2676961068434346536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f422974394fc8150800000000000000
+      internalID: 5876340527209784569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356181f5fa044730800000000000000
+      internalID: 3982320021937415484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d3e8d2d6cdf67e0800000000000000
+      internalID: -1769953767059473080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391a9053ce9d6c90800000000000000
+      internalID: -7174904069623244487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7bf74b3d2102800800000000000000
+      internalID: 585488652033832871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c52c62a621e9680800000000000000
+      internalID: -8746533179180819380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81973de2c9aa8470800000000000000
+      internalID: 8397711109854302605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8099c0555221110800000000000000
+      internalID: 1230086695439370407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c99379218d94f0800000000000000
+      internalID: -820357542078462168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31db75b4f651c4280800000000000000
+      internalID: -9057841182799315693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9408afa60e91d8f90800000000000000
+      internalID: -6949870198304636855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55fb2ea78cb27ef0800000000000000
+      internalID: -111819749802117793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 130
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee4fb7cd098bed60800000000000000
+      internalID: 7920575061939932908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b000d89a8c511c0800000000000000
+      internalID: -4533496819337917673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 132
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7fcd9f0b3105b0800000000000000
+      internalID: -5403973139609714836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 96
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d1f56382898490800000000000000
+      internalID: -7743514583424182808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 96
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca581b5076929f0800000000000000
+      internalID: -492749410069533694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089af96edaa91f9b0800000000000000
+      internalID: -5048083635616372352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea425752ceb48e530800000000000000
+      internalID: 3884438156219851950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0242051ad7d8a7b0800000000000000
+      internalID: -5212679237026037236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707e0ac2a19092c0800000000000000
+      internalID: -4426878305344524161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b5a59d1d55919b0800000000000000
+      internalID: -5108957942492013685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d0f5a20bb626d0800000000000000
+      internalID: -3015517280429615215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948eb6ef1a07d0c0800000000000000
+      internalID: -4551157766303087466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108f0603575a2b10800000000000000
+      internalID: 1957473002141483038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a2105c0b8780890800000000000000
+      internalID: -7491605279516054948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ffa36d07485ad0800000000000000
+      internalID: -2713340652658100588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d381499af1f580800000000000000
+      internalID: -8794973061141767884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 74
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bf6e91914c8950800000000000000
+      internalID: 6452604459799263155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bcadf3137df2470800000000000000
+      internalID: 8372146838829714222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17613543d7cbbc4a0800000000000000
+      internalID: -6571951985282312591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc819052c9423d0800000000000000
+      internalID: -3232286949664830586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032aa071168e0d9c0800000000000000
+      internalID: -3904365373234175440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5371ba0c4d949e0800000000000000
+      internalID: -1636543065603230258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fcfefc26f5e5330800000000000000
+      internalID: 3701500821745160066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 37
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b01f11858e0d750800000000000000
+      internalID: 6327812941411322736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccad8a1e5a8099a0800000000000000
+      internalID: -6228326147876344637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f8694e5d959f00800000000000000
+      internalID: 1122976710382909469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 36
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7a1b20a1bf0760800000000000000
+      internalID: 7426349612033277779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c650a2b2c81e9f0800000000000000
+      internalID: -440917171489117039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddfe3d435037cbe0800000000000000
+      internalID: -1457142820094673441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80db9335a0b79020800000000000000
+      internalID: 2348539954278944910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e593b5f36137e60800000000000000
+      internalID: 7958729427863035414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6fa05d4e99bdf40800000000000000
+      internalID: 5754362157001799400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7484712e3334b210800000000000000
+      internalID: 1347758530432894078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77008b58b7917910800000000000000
+      internalID: 1833413341381396348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxfirehat_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba87751f5594aa0800000000000000
+      internalID: -6176310918918919225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
